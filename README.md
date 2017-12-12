@@ -1,0 +1,1 @@
+This application simulates a simplified model of an order book on a financial exchange: `en.wikipedia.org/wiki/Order_book_(trading)` 
